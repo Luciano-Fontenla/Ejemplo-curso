@@ -12,6 +12,8 @@ namespace ejemplo1
 {
     public partial class Form1 : Form
     {
+        //Hola aaaa ... 
+
         public Form1()
         {
             InitializeComponent();
